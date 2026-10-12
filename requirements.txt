@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+redis
+celery
+faster-whisper
+playwright
+pydantic
+requests
